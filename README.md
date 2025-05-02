@@ -129,8 +129,3 @@ Developed a **fully functional Python-based review sentiment application** with 
 
 **Sorasak Joshi** – Business Analytics, UC Irvine  
 **Yiwei Lu, Yi-En Liu, Wan-Lun Tsai, Dennis Wu, Eunhye Kim**  
-
-📧 Contact: sorasakj@uci.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/sorasakjoshi)
-
-> Completed as part of BANA 277: Customer & Social Analytics under Professor Tingting Nian
